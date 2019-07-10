@@ -28,4 +28,4 @@ ribbon:
 server:
   port: 8081
 env:
-  test2
+  test3
